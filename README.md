@@ -32,7 +32,7 @@
 <h3> Get in touch! </h3>
 
 <p align="center">
-<a href="https://jose-velarde.github.io/one-page-resume/"><img alt="Website" src="https://img.shields.io/badge/Website-Jose-Velarde-CV-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://jose-velarde.github.io/one-page-resume/"><img alt="Website" src="https://img.shields.io/badge/Website-Jose%20Velarde%20CV-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/jose-velarde/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jose%20Velarde-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:josevelarde00@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-josevelarde00@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
