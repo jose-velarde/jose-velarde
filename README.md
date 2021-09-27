@@ -1,13 +1,13 @@
 <h2> Hi! I'm Jose.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> About Me </h3>
 
-- 🤔 &nbsp; 
-- 🎓 &nbsp; Studying a Masters in Space Science at the Nationl Institute for Space Research (INPE) of Brazil.
-- 💼 &nbsp; Working on my masters thesis and learning front-end web development.
+- 🤔 &nbsp; I'm an Electronic Engineer turned into a Web developer. I aim to create web experiences that look and feel amazing. 
+- 🎓 &nbsp; Studying a Masters in Space Science at the National Institute for Space Research (INPE) of Brazil.
+- 💼 &nbsp; Working on my masters thesis and studying front-end web development.
 - 🌱 &nbsp; Learning about React, very interested in Next, Typescript and TailwindCSS. Also MUI/emotion, and styled-components.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -19,8 +19,6 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
 
@@ -31,11 +29,11 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> Get in touch! </h3>
 
 <p align="center">
-<a href="https://jose-velarde.github.io/one-page-resume/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/jose-velarde/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:josevelarde00@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://jose-velarde.github.io/one-page-resume/"><img alt="Website" src="https://img.shields.io/badge/Website-Jose-Velarde-CV-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/jose-velarde/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jose%20Velarde-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:josevelarde00@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-josevelarde00@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
