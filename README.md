@@ -23,8 +23,8 @@
 <br/>
 
 <a href="https://github.com/jose-velarde">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jose-velarde&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-velarde&theme=buefy&layout=compact&hide=jupyter%20notebook" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jose-velarde&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-velarde&theme=dark&layout=compact&hide=jupyter%20notebook" />
 </a>
 
 <br/>
