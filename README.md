@@ -2,10 +2,10 @@
 
 <h3> About Me </h3>
 
-- 🤔 &nbsp; I'm an Electronic Engineer turned into a Web developer. I aim to create web experiences that look and feel amazing. 
-- 🎓 &nbsp; Studying a Masters in Space Science at the National Institute for Space Research (INPE) of Brazil.
-- 💼 &nbsp; Working on my masters thesis and studying front-end web development.
-- 🌱 &nbsp; Learning about React, very interested in Next, Typescript and TailwindCSS. Also MUI/emotion, and styled-components.
+- 🤔 &nbsp; I'm an Electronic Engineer turned into a Web developer. My goal is to create web experiences that look and feel amazing. 
+- 🎓 &nbsp; Concluding a Masters in Space Science at the National Institute for Space Research (INPE) of Brazil.
+- 💼 &nbsp; Working on my masters thesis and learning full stack web development.
+- 🌱 &nbsp; Practicing React, Next, Typescript and TailwindCSS/Material UI. Also, learning back-end with Django.
 
 <h3> Tech Stack</h3>
 
