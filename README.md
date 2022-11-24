@@ -2,11 +2,16 @@
 
 <h3> About Me </h3>
 
-- 🤔 &nbsp; I'm an Electronic Engineer turned into a Web developer. My goal is to create web experiences that look and feel amazing. 
-- 🎓 &nbsp; Concluding a Masters in Space Science at the National Institute for Space Research (INPE) of Brazil.
-- 💼 &nbsp; Working on my masters thesis and learning full stack web development.
-- 🌱 &nbsp; Practicing React, Next, Typescript and TailwindCSS/Material UI. Also, learning back-end with Django.
-
+- 🤔 &nbsp;Electronic Engineer turned into developer.
+- 🎓 &nbsp; Space Science MSc - National Institute for Space Research (INPE - Brazil).
+- 💼 &nbsp; Dev, mostly backend, worked with:
+    - (Current) MLOps: go REST API, DynamoDB, EKS, helm, gRPC, Sagemaker, Feast   
+    - (Past) Microservices dev: gRPC (go), go REST APIs, postgres, AWS (ECS, Personalize, DynamoDB, etc), Pulumi, Datadog 
+- 🌱 &nbsp; Full stack web dev, made projects with: 
+    - HTML, CSS, Javascript, Typescript.    
+    - React, Next, TailwindCSS, Material UI
+    - Angular
+    - Rest APIs: Django (Python) & Spring Boot (Java)
 <h3> Tech Stack</h3>
 
 - 💻 &nbsp;
